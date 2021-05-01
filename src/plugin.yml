@@ -1,0 +1,5 @@
+main: com.cybil.farwatch.Core
+version: 1.0
+name: FarwatchCore
+author: Cybil
+description: Handles connection to the Farwatch proxy, managing players, basic commands, and is the backbone for any server.
